@@ -11,7 +11,8 @@
     "build": "npm-run-all clean-for-build build-examples",
     "hello-world": "node ./build/hello-world/index.js",
     "base-auth": "node ./build/base-auth/index.js",
-    "blog": "node ./build/blog/index.js"
+    "blog": "node ./build/blog/index.js",
+    "body-parsing": "node ./build/body-parsing/index.js"
   },
   "repository": {
     "type": "git",
@@ -40,6 +41,7 @@
     "supertest": "^3.0.0"
   },
   "dependencies": {
+    "bluebird": "^3.4.7",
     "co-body": "^4.2.0",
     "co-views": "^2.1.0",
     "koa": "^2.0.0",
