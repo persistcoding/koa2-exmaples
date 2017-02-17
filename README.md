@@ -1,4 +1,6 @@
 # koa2-exmaples
+[![Build Status](https://travis-ci.org/persistcoding/koa2-exmaples.svg?branch=master)](https://travis-ci.org/persistcoding/koa2-exmaples)  
+
 for study koa2
 
 
