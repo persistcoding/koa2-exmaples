@@ -29,7 +29,6 @@ async function responseTime(ctx, next) {
 
 // logger
 
-
 async function logger(ctx, next) {
   const start = new Date()
   await next()
