@@ -13,7 +13,8 @@
     "hello-world": "node ./build/hello-world/index.js",
     "base-auth": "node ./build/base-auth/index.js",
     "blog": "node ./build/blog/index.js",
-    "body-parsing": "node ./build/body-parsing/index.js"
+    "body-parsing": "node ./build/body-parsing/index.js",
+    "compose": "node ./build/compose/index.js"
   },
   "repository": {
     "type": "git",
